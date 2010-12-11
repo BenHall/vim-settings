@@ -4,4 +4,9 @@ set history=1000
 set number
 set nowrap
 
-set syntax enable
+syntax on
+
+set shiftwidth=2
+set softtabstop=2
+set expandtab
+set autoindent
